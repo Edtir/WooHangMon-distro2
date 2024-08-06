@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/helios/WooHangMon/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "우행몬 시즌 2 (Minecraft 1.16.5)",
+    "description": "WooHangMon Running Minecraft 1.16.5 (Forge v36.2.39)",
+    "icon": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/serverimg.png",
+    "address": "www.woohangmon.kro.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "36.2.39"
+  },
+  "untrackedFiles": []
+}
