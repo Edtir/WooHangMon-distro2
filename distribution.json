@@ -12,8 +12,8 @@
       "name": "우행몬 시즌 2 (Minecraft 1.16.5)",
       "description": "WooHangMon Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://raw.githubusercontent.com/Edtir/WooHangMon-distro/main/serverimg.png",
-      "version": "1.0.0",
-      "address": "www.woohangmon.kro.kr",
+      "version": "1.0.1",
+      "address": "woohangmon.mcok.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
